@@ -1,0 +1,7 @@
+specific
+all
+every
+always
+usually
+sometimes
+some
